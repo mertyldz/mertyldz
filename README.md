@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working on **Allianz Turkey**
 
-- 🌱 I’m currently learning **Java, Spring, JavaScript and Angular**
+- 💬 Ask me about **Java, Golang, Microservices**
 
-- 💬 Ask me about **Python, SQL, Machine Learning**
-
-- 📫 How to reach me **yzmert35@gmail.com**
+- 📫 How to reach me **mertyildiz.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mert-yildiz-71177b204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mert-yildiz-71177b204/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mertyildiz96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mert-yildiz-71177b204/" height="30" width="40" /></a>
 <a href="https://discord.gg/_mertyildiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_mertyildiz" height="30" width="40" /></a>
 </p>
 
